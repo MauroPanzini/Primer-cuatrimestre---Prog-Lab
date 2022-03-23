@@ -1,0 +1,20 @@
+/*
+ ============================================================================
+ Name        : Ejercicios.c
+ Author      : Mauro Panzini
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int edad;
+	printf("Introduzca su edad: ");
+	scanf("%d", edad);
+	print("Su edad es: %d", edad);
+	return 0;
+}

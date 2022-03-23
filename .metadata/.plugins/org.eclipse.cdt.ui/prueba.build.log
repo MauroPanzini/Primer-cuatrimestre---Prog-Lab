@@ -1,0 +1,15 @@
+21:36:59 **** Build of configuration Release for project prueba ****
+make all 
+Building file: ../src/prueba.c
+Invoking: Cross GCC Compiler
+gcc -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/prueba.d" -MT"src/prueba.o" -o "src/prueba.o" "../src/prueba.c"
+Finished building: ../src/prueba.c
+ 
+Building target: prueba
+Invoking: Cross GCC Linker
+gcc  -o "prueba"  ./src/prueba.o   
+Finished building target: prueba
+ 
+
+21:37:00 Build Finished. 0 errors, 0 warnings. (took 653ms)
+

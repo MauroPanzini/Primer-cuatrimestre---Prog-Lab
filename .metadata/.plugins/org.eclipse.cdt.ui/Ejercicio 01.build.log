@@ -1,0 +1,15 @@
+21:25:20 **** Incremental Build of configuration Debug for project Ejercicio 01 ****
+make all 
+Building file: ../src/Ejercicio 01.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Ejercicio 01.d" -MT"src/Ejercicio 01.o" -o "src/Ejercicio 01.o" "../src/Ejercicio 01.c"
+Finished building: ../src/Ejercicio 01.c
+ 
+Building target: Ejercicio 01
+Invoking: Cross GCC Linker
+gcc  -o "Ejercicio 01"  ./src/Ejercicio\ 01.o   
+Finished building target: Ejercicio 01
+ 
+
+21:25:21 Build Finished. 0 errors, 0 warnings. (took 536ms)
+

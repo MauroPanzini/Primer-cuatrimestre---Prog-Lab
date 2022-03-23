@@ -1,0 +1,8 @@
+21:21:29 **** Clean-only build of configuration Release for project Ej-01 ****
+make clean 
+rm -rf ./src/Ej-01.d ./src/Ej-01.o
+rm -rf Ej-01
+ 
+
+21:21:29 Build Finished. 0 errors, 0 warnings. (took 306ms)
+

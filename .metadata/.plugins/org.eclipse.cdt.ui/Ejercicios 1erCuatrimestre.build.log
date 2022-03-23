@@ -1,0 +1,7 @@
+16:25:18 **** Incremental Build of configuration Debug for project Ejercicios 1erCuatrimestre ****
+make all 
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+"make all" terminated with exit code 1. Build might be incomplete.
+
+16:25:18 Build Finished. 0 errors, 0 warnings. (took 140ms)
+
